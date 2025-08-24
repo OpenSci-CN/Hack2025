@@ -20,4 +20,6 @@
 - 澳门大学
 
 ## 可能hack的项目
-见[腾讯文档](https://docs.qq.com/sheet/DUUVHcEVkR3BNTUZW?tab=BB08J2)
+见[腾讯文档](https://docs.qq.com/sheet/DUUVHcEVkR3BNTUZW?tab=BB08J2)、子文件夹及以下的github repos:
+
+- MEG searchlight temporal decoding算法优化([github](https://github.com/nmningmei/COSN-Hackathon2025))
